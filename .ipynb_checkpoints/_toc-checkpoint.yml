@@ -1,0 +1,7 @@
+format: jb-book
+root: markdown/introduction
+chapters:
+  - file: notebooks/chapter1
+  - file: notebooks/chapter2
+appendices:
+  - file: markdown/conclusion

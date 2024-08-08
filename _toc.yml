@@ -1,0 +1,6 @@
+format: jb-book
+root: notebooks/EDA
+chapters:
+  - file: notebooks/chapter1
+  - file: notebooks/chapter2
+  - file: markdown/conclusion
